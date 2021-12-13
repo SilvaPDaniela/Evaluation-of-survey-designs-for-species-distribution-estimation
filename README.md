@@ -21,4 +21,4 @@ E. T. Krainski et al. (2019). Advanced Spatial Modeling with Stochastic Partial 
 
 Lindgren, F., Rue, H., and Lindström, J. (2011). An explicit link between gaussian fields and gaussian markov random fields: the stochastic partial differential equation approach. Statistical Methodology, 73(4):423–498.
 
-Zuur, A. F., Ieno, E. N., and Saveliev, A. A. (2017). Beginner’s Guide to Spatial, Temporal, and Spatial-Temporal Ecological Data Analysis with R-INLA, volume I: Using GLM and GLMM, chapter 20: GAM with correlation and zero-inflation in R-INLA using owl data. Highland Statistics Ltd.
+Zuur, A. F., Ieno, E. N., and Saveliev, A. A. (2017). Beginner’s Guide to Spatial, Temporal, and Spatial-Temporal Ecological Data Analysis with R-INLA, volume I: Using GLM and GLMM, Chapter 22: Zero-inflated continuous seabird data. Highland Statistics Ltd.
