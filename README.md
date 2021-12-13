@@ -6,7 +6,7 @@ The code corresponding to the modelling process is not included, which implement
 
 Script_1_Selection_procedure: Having as input a predicted thinned grid, we start defining the constraints, the minimum distance and the measures for locations selection. The points.selection.function() is a loop function for select locations guaranting designs constraints using the measures previous defined. The result is a set of alternative designs, each containing the coordinates of the selected locations for each measure.
 
-Script_2_Assessment_of_selection_measures: Having as input a database of predicted and observed abundance values for a selected benchmark survey, compute the assessment criteria for each alternative design and species through a loop function.
+Script_2_Assessment_of_selection_measures: Having as input a dataset of predicted and observed abundance values for a selected benchmark survey, compute the assessment criteria for each alternative design and species through a loop function.
 
 
 
